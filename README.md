@@ -21,6 +21,6 @@ Twitter: [@ehmatthes](http://twitter.com/ehmatthes/)
 ---
 
 # 学习笔记
-[基础知识笔记](Note.md)
+[基础知识笔记](基础知识笔记.md)
 
 # Python-Source_code
