@@ -22,7 +22,7 @@ class ChessSet:
           for that piece.
         - Adds each piece to the list self.pieces.
         """
-        filename = 'images/chess_pieces.bmp'
+        filename = 'beyond_pcc/chess_game/images/chess_pieces.bmp'
         piece_ss = SpriteSheet(filename)
 
         # Load all piece images.
