@@ -24,5 +24,6 @@ Twitter: [@ehmatthes](http://twitter.com/ehmatthes/)
 ## 基础知识
 - [基础知识笔记](学习笔记/基础知识笔记.md)
 - [列表](学习笔记/列表.md)
+- [链表](学习笔记/链表.md)
 ## 算法相关
 # Python-Source_code
